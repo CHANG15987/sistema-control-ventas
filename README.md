@@ -21,32 +21,45 @@ Actualmente está en proceso de desarrollo.
    ```bash
    git clone https://github.com/CHANG15987/sistema-control-ventas.git
 
+
 2. Importar la base de datos:
 
-Dentro de la carpeta /bd se encuentra el archivo facturacion.sql.
+    Dentro de la carpeta /bd se encuentra el archivo facturacion.sql.
 
-Importarlo en MySQL usando phpMyAdmin o consola:
-mysql -u root -p facturacion < bd/facturacion.sql
+    Importarlo en MySQL usando phpMyAdmin o consola:
+
+    mysql -u root -p facturacion < bd/facturacion.sql
+
 
 3. Configurar la conexión a la base de datos:
 
-Editar el archivo conexion.php con los datos de tu servidor local:
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "facturacion";
+    Editar el archivo conexion.php con los datos de tu servidor local:
+
+    $host = "localhost";
+
+    $user = "root";
+
+    $pass = "";
+
+    $db   = "facturacion";
+
 
 4. Levantar el servidor local (ejemplo con XAMPP):
 
-Colocar el proyecto en la carpeta htdocs.
+    Colocar el proyecto en la carpeta htdocs.
 
-Acceder desde el navegador:
-http://localhost/facturacion
+    Acceder desde el navegador:
+    http://localhost/facturacion
+
 
 5. 👤 Acceso al sistema
-Usuario: admin
-Contraseña: admin123
+
+    Usuario: admin
+    Contraseña: admin123
+
 
 6. 📌 Estado
-Desarrollado por Chang Guevara Sapa
-Este proyecto aún está en proceso de desarrollo y se irán añadiendo nuevas funcionalidades.
+
+    Desarrollado por Chang Guevara Sapa
+    
+    Este proyecto aún está en proceso de desarrollo y se irán añadiendo nuevas funcionalidades.
