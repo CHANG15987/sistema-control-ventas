@@ -1,0 +1,450 @@
+POST: Array
+(
+    [fecha_inicio] => 2025-08-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-08-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-02-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-14
+    [fecha_fin] => 2025-08-14
+    [estado] => pagado
+)
+
+RANGO: 2025-02-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO:  AND f.estatus = 1 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-08-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-14
+    [fecha_fin] => 2025-08-14
+    [estado] => anulado
+)
+
+RANGO: 2025-02-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-02-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-14
+    [fecha_fin] => 2025-08-14
+    [estado] => anulado
+)
+
+RANGO: 2025-02-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-08
+    [fecha_fin] => 2025-08-14
+    [estado] => anulado
+)
+
+RANGO: 2025-08-08 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-14
+    [fecha_fin] => 2025-08-14
+    [estado] => anulado
+)
+
+RANGO: 2025-08-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-08-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-08-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-07-16
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-07-16 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-08-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-08
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-08-08 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-14
+    [fecha_fin] => 2025-08-14
+    [estado] => 
+)
+
+RANGO: 2025-08-14 00:00:00 a 2025-08-14 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => pagado
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO:  AND f.estatus = 1 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => anulado
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-07
+    [fecha_fin] => 2025-08-13
+    [estado] => anulado
+)
+
+RANGO: 2025-08-07 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-07
+    [fecha_fin] => 2025-08-13
+    [estado] => pagado
+)
+
+RANGO: 2025-08-07 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO:  AND f.estatus = 1 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-07
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-07 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-07
+    [fecha_fin] => 2025-08-13
+    [estado] => anulado
+)
+
+RANGO: 2025-08-07 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-13
+    [fecha_fin] => 2025-08-13
+    [estado] => anulado
+)
+
+RANGO: 2025-02-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO:  AND f.estatus = 2 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-02-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-07-15
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-07-15 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-02-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-13
+    [fecha_fin] => 2025-08-13
+    [estado] => 
+)
+
+RANGO: 2025-08-13 00:00:00 a 2025-08-13 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-25
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-08-25 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-25
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-08-25 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-19
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-08-19 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-07-27
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-07-27 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-25
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-08-25 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-02-25
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-02-25 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-25
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-08-25 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
+POST: Array
+(
+    [fecha_inicio] => 2025-08-25
+    [fecha_fin] => 2025-08-25
+    [estado] => 
+)
+
+RANGO: 2025-08-25 00:00:00 a 2025-08-25 23:59:59
+SQL_ESTADO: 
+------
